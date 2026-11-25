@@ -1,0 +1,6 @@
+{
+  "name": "전력의 탄생 3D — 에너지 발전 연구소",
+  "description": "전자기 유도부터 자전거, 수력, 화력, 파력, 원자력 발전까지 직접 체험하며 어두운 도시를 밝히는 1인칭 3D 인터랙티브 에너지 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
